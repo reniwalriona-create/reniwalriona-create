@@ -37,7 +37,7 @@ A product concept for how UW–Madison students find campus events, built on stu
 - Analyzed 146 student-life listings from the UW Events API with Python and PostgreSQL, finding 86% had no cost and 49% no event link
 - Turned the findings into traceable requirements, a roadmap, and a 17-screen Figma prototype
 
-[View the prototype](https://www.figma.com/proto/uX5zmjCOw2iQHHnz7TnKym/Portfolio-revision-TETHER?node-id=38-404&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=38%3A404)
+[View the prototype](https://www.figma.com/proto/acZrTDLxhe8OTl9GH0uK0x/Tether--Public-Portfolio-Prototype?node-id=38-404&p=f&t=4OkVv2owZetVvGx5-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=38%3A404&show-proto-sidebar=1)
 
 ### Connect with me
 
