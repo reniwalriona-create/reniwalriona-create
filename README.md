@@ -29,7 +29,7 @@ The public repository includes a case study and synthetic demonstration data.
 
 [Watch the demo](https://youtu.be/jKcDjJRn7pU)
 
-**[Tether: Campus Engagement Case Study](https://github.com/reniwalriona-create/tether-case-study)**
+**[Tether: Campus Event Discovery App](https://github.com/reniwalriona-create/Tether-Campus-Event-Discovery-App-.git)**
 
 A product concept for how UW–Madison students find campus events, built on student research and public event data.
 
