@@ -33,7 +33,7 @@ The public repository includes a case study and synthetic demonstration data.
 
 A product concept for how UW–Madison students find campus events, built on student research and public event data.
 
-- Surveyed 95 students and interviewed 10; 80% had missed an event because they didn’t know it was happening
+- Surveyed 95 students and interviewed 10; 68% had missed an event because they didn’t know it was happening
 - Analyzed 146 student-life listings from the UW Events API with Python and PostgreSQL, finding 86% had no cost and 49% no event link
 - Turned the findings into traceable requirements, a roadmap, and a 17-screen Figma prototype
 
